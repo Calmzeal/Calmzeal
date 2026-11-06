@@ -2,7 +2,7 @@
 
 **Formal verification × AI.** I build verified tools for research workflows — and publish the proofs.
 
-- 🧠 Background: informatics olympiad → Nanjing University → École Polytechnique → MPRI (Paris) → Conflux
+- 🧠 Background: informatics olympiad → Nanjing University → École Polytechnique → MPRI (Paris) → Inria → CertiK
 - 🔬 Focus: formal methods (TLA+/Z3/Alloy/Lean) applied to AI systems, protocols, and scientific software
 - 🚧 Current: verified AI tooling for research workflows — building in public
 
